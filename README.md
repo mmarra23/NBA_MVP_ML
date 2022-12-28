@@ -8,7 +8,7 @@ Data Selection
 	To conduct this project, a dataset from Kaggle was sourced and the team selected The 1982-2022 NBA Player Statistics with MVP Votes: https://www.kaggle.com/datasets/robertsunderhaft/nba-player-season-statistics-with-mvp-win-share. The NBA Player statistics dataset was developed by web scraping https://www.basketball-reference.com.
 
 Data Exploration & Analysis 
-	Conducted basic statistical analyses and reviews with the original data set such as:
+        Conducted basic statistical analyses and reviews with the original data set such as:
 		- The dataset had 55 columns and 17697 rows.
 		- 52 numerical and 3 non-numerical variables.
 		- Mean, Median, and Standard Deviation of the players' stats of the top 10 MVP award share scores for each season.
