@@ -7,7 +7,7 @@ The goal of this project was 2-fold. First and foremost, to predict the NBA MVP 
 
 **Data Selection**
 
-To conduct this project, a dataset from Kaggle was sourced and the team selected The 1982-2022 NBA Player Statistics with MVP Votes: https://www.kaggle.com/datasets/robertsunderhaft/nba-player-season-statistics-with-mvp-win-share. The NBA Player statistics dataset was developed by web scraping https://www.basketball-reference.com.
+To conduct this project, a dataset from Kaggle was sourced and selected, The 1982-2022 NBA Player Statistics with MVP Votes: https://www.kaggle.com/datasets/robertsunderhaft/nba-player-season-statistics-with-mvp-win-share. The NBA Player statistics dataset was developed by web scraping https://www.basketball-reference.com.
 
 **Data Exploration & Analysis**
 
