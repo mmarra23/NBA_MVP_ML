@@ -3,7 +3,7 @@ NBA MVP Machine Learning Model Development &amp; Prediction
 
 **Objective**
 
-The goal of this project was 2-fold. First and foremost, to predict the NBA MVP winner of the 2022 season by predicting the award share score of each player. The highest award share score would be the MVP winner. The second goal was to predict the top 3 MVP finalists correctly. The approach would try different regressors and identify the most accurate models used in the prediction based on the mean root squared error, r2 score, 1st place prediction accuracy, and top three MVP prediction accuracy.
+The goal of this project was 2-fold. First and foremost, to predict the NBA MVP winner of the 2022 season by predicting the award share score of each player. The highest award share score would be the MVP winner. The second goal was to predict the top 3 MVP finalists correctly. The approach would try different regressors and identify the most accurate models used in the prediction based on the mean root squared error, r2 score, 1st place prediction accuracy, and top three MVP prediction accuracy. Note, the python code is attached, above to this repository.
 
 **Data Selection**
 
