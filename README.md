@@ -67,5 +67,6 @@ The top 5 features that highly impacted the regression model were as follows:
 * Assist Percentage (ast_pct)
 
 Here where the final predictions for the 2022 season:
+
 ![nbanvp](https://user-images.githubusercontent.com/89919659/213782999-2f753d7e-ad5c-47a7-af0b-c0234257f1e9.PNG)
 * note: any column with _PRED was the ML predicted value or ranking
