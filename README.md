@@ -65,3 +65,6 @@ The top 5 features that highly impacted the regression model were as follows:
 * Field Goals per Game (fga_per_g)
 * Defensive Win Shares (dws)
 * Assist Percentage (ast_pct)
+
+Here where the final predictions for the 2022 season:
+![nbanvp](https://user-images.githubusercontent.com/89919659/213782999-2f753d7e-ad5c-47a7-af0b-c0234257f1e9.PNG)
