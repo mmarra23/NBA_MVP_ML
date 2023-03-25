@@ -61,6 +61,8 @@ Learning curve
 * To further improve the gap between the training and validation plot of the learning curve we removed low-impact features to reduce the models' complexity.
 * This tuning improved the learning curve result and the training and validation curves started to converge at 6000 samples.
 
+![image](https://user-images.githubusercontent.com/89919659/227674884-a762021d-d0a3-4e5f-92f2-6d1476bd1581.png)
+
 The top 5 features that highly impacted the regression model were as follows:
 * Point per Game (pts_per_g)
 * Win Shares (ws)
