@@ -50,8 +50,8 @@ XGBoost Regressor with the following Hyperparameters: {'subsample': 0.5, 'object
 XGBoost Regressor performance: 
 * Predicted 2022 season MVP Winner Correctly
 * Predicted the top 3 finalists, just not in the correct order for 2nd and 3rd place.
-* R2 = 0.8860
-* RMSE = 0.0191
+* R2 = 0.8900
+* RMSE = 0.0189
 
 Learning curve
 * Plotted the learning curve for the training data from 2012 to 2020 based on RMSE.
