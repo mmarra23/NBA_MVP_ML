@@ -19,6 +19,8 @@ Conducted basic statistical analyses and reviews with the original data set such
 * Analysis of features like age, win share, and points scored of MVP winners vs non-MVPs.
 * Distribution of player volume by season.
 
+![image](https://user-images.githubusercontent.com/89919659/227672505-55f9b578-d439-4249-9b1a-ed0c4612ff3e.png)
+
 **Data Cleaning & Transformation**
 * Removed all rows with any NULL values.
 * Add a binary column that would identify the MVP of each season in the dataset with a number 1.
