@@ -68,6 +68,8 @@ The top 5 features that highly impacted the regression model were as follows:
 * Defensive Win Shares (dws)
 * Assist Percentage (ast_pct)
 
+![image](https://user-images.githubusercontent.com/89919659/227674670-a43ab995-1cd7-49b2-b059-5a4b13fef282.png)
+
 Here where the final predictions for the 2022 season:
 
 ![nbanvp](https://user-images.githubusercontent.com/89919659/213782999-2f753d7e-ad5c-47a7-af0b-c0234257f1e9.PNG)
